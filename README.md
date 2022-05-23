@@ -1,2 +1,2 @@
 # odin-recipes
-Project from www.theodinproject.com
+Project developed following the www.theodinproject.com
